@@ -11,4 +11,5 @@ swift: 一个容器视图控制器 SwitchingViewController 两个分视图控制
 5. 添加转场效果
 
 ##效果图
-![](http://7tsys2.com1.z0.glb.clouddn.com/Demo.gif)
+
+![demo](http://7tsys2.com1.z0.glb.clouddn.com/Demo.gif)
